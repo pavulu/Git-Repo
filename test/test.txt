@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-dev2
-dev-2
-=======
-master
->>>>>>> master
